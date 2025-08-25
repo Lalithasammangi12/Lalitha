@@ -1,0 +1,3 @@
+Name: S.Lalitha
+Course: BSC(Computer Science)
+GitHub: GitHub is a cloud based platform that facilitates software development and version control
